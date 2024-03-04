@@ -1,0 +1,51 @@
+[
+    {
+        "image": "/images/brushes.jpeg",
+        "title": "Brushes",
+        "description":"Try this product...",
+        "price": "RS.299"
+
+
+    },
+    {
+        "image": "/images/cheeks.jpeg",
+        "title": "Cheeks Cosmetics",
+        "description": "Big discount is waiting for cheek cosmetics...",
+        "price": "RS.100"
+
+
+    },
+    {
+        "image": "/images/eye.jpeg",
+        "title": "Eyeliner",
+        "description": "Make your eyes look beautiful by using variety of eyeliners!",
+        "price": "Rs.149"
+
+
+    },
+    {
+        "image": "/images/lips.jpeg",
+        "title": "Lip Cosmetics",
+        "description": "Mega offer for lip cosmetics",
+        "price": "RS.99"
+
+
+    },
+    {
+        "image": "/images/face.jpeg",
+        "title": "Face Csometics",
+        "description": "Try using face cosmetics to look shiny...",
+        "price": "RS.250"
+
+
+    },
+    {
+        "image": "/images/face-img1.jpeg",
+        "title": "Olivia Pan Cake",
+        "description":"To make your skin smooth Try this...",
+        "price": "RS.279"
+
+
+    }
+
+]
